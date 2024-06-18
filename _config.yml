@@ -9,22 +9,30 @@
 # --- Required options --- #
 ############################
 
-# Name of website
-title: Lycée Ravel
+title: Lycée Ravel Saint-Jean-de-Luz
 
-# Your name to show in the footer
-author: Some Person
+description: Site professionnel d'Aline et Yann MOBIAN
+author: Aline & Yann Mobian
+
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Accueil: index.html
+  Seconde 8 : https://github.com/raveluz/Ressources/tree/main/Seconde8
+  Premières : 
+  - 1STMG : https://github.com/raveluz/Ressources/tree/main/1STMG
+  - 1ES : https://github.com/raveluz/Ressources/tree/main/1reES
+  Terminale :
+  - Les spécialistes : https://github.com/raveluz/Ressources/tree/main/TMaths
+  - Côté experts :  https://github.com/raveluz/Ressources/tree/main/Expertes
+  - Grand oral : https://www.education.gouv.fr/bo/20/Special2/MENE2002780N.htm?cid_bo=149115
+  - Ens. scientifique : https://github.com/raveluz/Ressources/tree/main/Tle.ES
+  - Le site de parcoursup : https://www.parcoursup.fr/
+  - Les datas parcoursup 2022 : https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili
+  - Révisions : "revisions"
 
 ################
 # --- Logo --- #
